@@ -1,0 +1,125 @@
+
+
+.navbar {
+  margin-bottom: 0;
+
+}
+
+.navbar-default {
+  background-color: #c2c2a3;
+
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+ul {
+float: right;
+}
+/*float ul not li*/
+.rightsidenav li {
+  text-decoration: none;
+  font-size: 10px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.section2 {
+
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section2 img {
+  height: 300px;
+  width: 60%;
+}
+
+.section3 img {
+  height: 150px;
+  width: 60%;
+  text-align: center;
+}
+
+.section3 {
+  background-color: white;
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section3 p {
+  font-family: 'Copse', serif;
+}
+
+.section4 img {
+    height: 200px;
+    width: 80%;
+}
+
+.section4 h2 {
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section4 p {
+font-family: 'Copse', serif;
+}
+.section5 {
+  height: 300px;
+}
+.section5 h2 {
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section5 h4 {
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section6 {
+  background-color: #6666ff;
+}
+
+.section6 h2 {
+font-family: 'Baloo Bhai', cursive;
+}
+
+.section7 {
+  background-color: white;
+}
+.section7 img {
+  height: 300px;
+  width: 50%;
+}
+
+h2 {
+  text-align: center;
+font-family: 'Baloo Bhai', cursive;
+}
+
+p {
+  text-align: center;
+}
+
+.leftbottombox {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+    background-color: #c2c2a3;
+}
+
+.container input {
+  display: block;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#message {
+  height: 70px;
+}
+
+form {
+  margin-left: 100px;
+  margin-right: 100px;
+}
